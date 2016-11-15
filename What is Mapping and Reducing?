@@ -1,0 +1,6 @@
+MapReduce is a framework using which we can write applications to process massive amount of data, in parallel or on large commodity clusters realiably.
+It contains: Map and Reduce
+
+Map: As the word suggests does the mapping. It takes large anount of data and break thm into tuples of (key, value) pairs. 
+Reduce: Takes the Map output as input and reduces them based on key.
+
